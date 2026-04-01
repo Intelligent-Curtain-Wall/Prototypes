@@ -11,10 +11,7 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app ./app
-COPY tests ./tests
-COPY postman ./postman
 COPY pytest.ini ./
-COPY README.md ./
 
 EXPOSE 8000
 
