@@ -61,3 +61,12 @@ Currently there's four cores with 2,5GHz each. Which is maybe a bit weak by toda
 For now we don't need to worry about space. But 100GB is not much at all.
 
 ### Prototype
+
+docker-compose.yml is ready
+
+## Next Steps
+
+- Get the Database running again (Responsible: Huang Jie)
+- Weather Information via API (Responsible: Lixing Shuo helps Mario to read Chinese Websites and APIs)
+- ML (Responsible: Xu Peng+Mario)
+- Reevaluation of the Server (once the DB is running again)
